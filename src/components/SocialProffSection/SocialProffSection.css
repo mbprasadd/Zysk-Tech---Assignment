@@ -1,0 +1,28 @@
+.SocialProfileSection {
+    margin-top: 40px;
+}
+
+.SocialProfileSection-container {
+    width: 90%;
+}
+
+
+.SocialProfileSection-logs-and-name-container {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SocialProffSection-logo {
+    height: 30px;
+    width: 30px;
+}
+
+.SocialProfileSection-logo-name {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 5px;
+}
+

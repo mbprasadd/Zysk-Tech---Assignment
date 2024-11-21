@@ -1,0 +1,28 @@
+.navbar {
+    margin-bottom: 50px;
+    padding: 1px 15px;
+}
+
+.nav-logo {
+    height: 45px;
+    width: 45px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+
+.nav-link {
+    color: #f9fbfe;
+    margin-left: 15px;
+
+}
+
+#title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 0px;
+}
+
+.nav-profile {
+    margin-right: 20px;
+}

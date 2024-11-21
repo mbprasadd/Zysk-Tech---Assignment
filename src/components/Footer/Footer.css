@@ -1,0 +1,46 @@
+.FooterSection {
+    background-color: #ffffff;
+}
+
+.FooterSection-card-container {
+    text-align: left;
+}
+
+
+.FooterSection-card-head {
+    color: #918d8d;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+
+
+.FooterSection-card-links {
+    color: #7e7a7a;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.FooterSection-pofile-title-container {
+    padding: 10px;
+}
+
+.FooterSection-pofile {
+    height: 60px;
+    width: 60px;
+}
+
+.FooterSection-profile-name {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.FooterSection-rights {
+    color: #918d8d;
+    font-size: 15px;
+    text-align: left;
+}

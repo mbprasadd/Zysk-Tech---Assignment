@@ -1,0 +1,66 @@
+.FAQSection {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.FAQSection-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.FAQSection-questions-container {
+  background-color: #ffffff;
+  width: 80%;
+}
+
+.question-button {
+  border-top: 2px solid rgb(239, 238, 238);
+  padding-top: 8px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 16px;
+}
+
+.FAQSection-card {
+    text-align: center;
+    background-color: #f9fbfe;
+    border-radius: 8px;
+    padding: 24px;
+    width: 90%;
+  }
+  
+  .FAQSection-card-image {
+    height: 80px;
+    width: 180px;
+  }
+  
+  .FAQSection-card-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .FAQSection-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 18px;
+  }
+
+
+.FAQSection-card-button {
+    background-color: #6941C6;
+    color: #ffffff;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.answer {
+  border: none;
+  text-align: left;
+  margin: 0px;
+  padding-top: 0px;
+}

@@ -1,0 +1,66 @@
+.heroheadersection-container {
+   margin-top: 100px;
+    min-height: 90vh;
+}
+
+.top-buttton {
+    color: #6941C6;
+    background-color: #e4d9f7;
+    border-radius: 25px;
+    border: 1px solid #e4d9f7;
+    padding: 2px 10px;
+}
+
+.arrow {
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+.span-color {
+    color: #6941C6;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 1px solid #e4d9f7;
+    padding: 0px 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.heroheadersection-card {
+   margin-bottom: 30px;
+   width: 50%;
+}
+
+.heroheadersection-head {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.heroheadersection-caption {
+    color: rgb(92, 82, 82);
+    font-size: 15px;
+}
+
+.heroheadersection-demo-button {
+    height: 40px;
+    width: 120px;
+    background-color:transparent;
+    border-radius: 5px;
+    border: 1px solid rgb(177, 171, 171);
+    margin-right: 10px;
+}
+
+.heroheadersection-signup-button {
+    color: #ffffff ;
+    height: 40px;
+    width: 120px;
+    background-color: #7d53ca;
+    border :none;
+    border-radius: 5px;
+}
+
+
+.content-image {
+    width: 80%;
+}

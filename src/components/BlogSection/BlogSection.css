@@ -1,0 +1,79 @@
+.BlogSection {
+    background-color: #ffffff;
+  }
+
+  .BlogSection-small-head {
+    color:#6941C6 ;
+    font-weight: bold;
+  }
+  
+  .BlogSection-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: bold;
+  }
+
+  .BlogSection-viwellAll-button {
+    background-color: #6941C6;
+    color: #ffffff;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+  }
+
+  .BlogSection-card {
+    background-color: #ffffff;
+    margin: 5px;
+  }
+  
+  .BlogSection-card-image {
+    width: 100%;
+  }
+
+  .BlogSection-card-subhead {
+    color: #6941C6;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  
+  .arow {
+    margin-left: 30px;
+  }
+  
+  .BlogSection-card-head {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 50px;
+  }
+
+  .BlogSection-card-discription {
+    color: #969fa8;
+    font-family: "Roboto";
+    font-size: 15px;
+  }
+
+  .BlogSection-profile {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+  }
+
+ .BlogSection-name {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+ }
+
+ .BlogSection-date {
+    color: #969fa8;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin: 0px;
+ }

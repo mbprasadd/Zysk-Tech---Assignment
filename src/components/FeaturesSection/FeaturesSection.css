@@ -1,0 +1,52 @@
+.FeaturesSection-section {
+    background-color: #f9fbfe;
+  }
+
+
+  .FeaturesSection-button {
+    color: #6941C6;
+    font-weight: 500;
+    background-color: transparent;
+    border: none;
+    margin: 24px;
+    padding: 2px 20px;
+  }
+  
+  .FeaturesSection-head {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: bold;
+  }
+  
+  .FeaturesSection-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .FeaturesSection-card {
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .FeaturesSection-card-image {
+    height: 80px;
+    width: 80px;
+  }
+  
+  .FeaturesSection-card-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  .FeaturesSection-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+  }

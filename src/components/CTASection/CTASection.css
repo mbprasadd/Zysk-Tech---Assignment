@@ -1,0 +1,31 @@
+.CTASection {
+    background-color: #f9fbfe;
+}
+
+.CTASection-head {
+    font-family: "Roboto";
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.CTASection-description {
+    font-family: "Roboto";
+    color: rgb(92, 82, 82);
+    font-size: 20px;
+}
+
+.CTASection-learn-more-button {
+    height: 40px;
+    background-color:transparent;
+    border-radius: 5px;
+    border: 1px solid rgb(177, 171, 171);
+    margin-right: 10px;
+}
+
+.CTASection-getstarted-button {
+    color: #ffffff ;
+    height: 40px;
+    background-color: #7d53ca;
+    border :none;
+    border-radius: 5px;
+}
